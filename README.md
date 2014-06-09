@@ -1,4 +1,4 @@
 TAT-Project
 ===========
 
-A test automation tool
+A Test Automation Tool
